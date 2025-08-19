@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Eliasyusuff
-- 👀 I’m interested in HTML, CSS and PHP
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on frontend and backend project using HTML, CSS and PHP
+- 👀 currently employed so less activity on here
 - 📫 How to reach me via email at yusuff.elias@gmail.com
 
 <!---
